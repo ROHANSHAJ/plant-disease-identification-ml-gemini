@@ -71,6 +71,4 @@ python plant_doctor_pro.py
 
 Don't forget to get your Gemini API key from [Google Gemini API documentation](https://ai.google.dev/gemini-api/docs/api-key).
 
-## 📄 License
 
-MIT License – free to use with attribution.
