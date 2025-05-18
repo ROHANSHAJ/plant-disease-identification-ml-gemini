@@ -70,13 +70,10 @@ python plant_doctor_pro.py
 ![Screenshot 1](assets/screenshot1.png)
 ![Screenshot 2](assets/screenshot2.png)
 
-## 🤖 Example Prompts
 
-The AI is prompted with structured requests to output clean, concise plant health reports for professional use.
+## 🔐 Api Note
 
-## 🔐 Security Note
-
-Don't hardcode your API key in public repos. Use environment variables or a config file for production use.
+Don't forget to get your Gemini API key from [Google Gemini API documentation](https://ai.google.dev/gemini-api/docs/api-key).
 
 ## 📄 License
 
