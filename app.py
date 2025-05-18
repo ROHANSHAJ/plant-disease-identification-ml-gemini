@@ -16,7 +16,7 @@ class PlantDoctorPro:
         self.root.minsize(1200, 800)
         
         # Configure Gemini 1.5 Flash
-        self.api_key = "AIzaSyCJDSVfGfCm42pNkIu5bhdOtieqklUm6ts"  # Replace with your actual API key
+        self.api_key = "  ############  "  # Replace with your actual API key
         self.model = None
         self.api_configured = False
         self.disease_name = ""  # To store identified disease name
