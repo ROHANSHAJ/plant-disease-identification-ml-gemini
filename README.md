@@ -62,7 +62,7 @@ pip install google-generativeai opencv-python Pillow
 4. Run the application:
 
 ```bash
-python plant_doctor_pro.py
+app.py
 ```
 
 
