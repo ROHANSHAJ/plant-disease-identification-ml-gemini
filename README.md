@@ -65,10 +65,6 @@ pip install google-generativeai opencv-python Pillow
 python plant_doctor_pro.py
 ```
 
-## 📸 Screenshots
-
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
 
 
 ## 🔐 Api Note
